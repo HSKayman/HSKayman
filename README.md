@@ -10,13 +10,16 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <p><img align="right" src="https://github.com/HSKayman/HSKayman/blob/main/animation.gif" alt="HSKayman" /></p>
 <p align="left">
   I am a fast learner, reliable, and highly adaptable computer scientist with nearly 2 years of experience. I have an inquiring, judgmental mind so, I love to learn new topics and technologies. I am interested in data heavy applications, data science as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.
-  </p>
+ 
 - 👨🏽‍💻  I’m currently AI Developer
 - 🌱 I’m currently developing Optimizing projects and Data Science projects
 - 🤔 My interest lies in Data Science, Machine Learning, Deep Learning and Parallel Programing
 - 💬 Ask me about anything from [hsn@kymn.com](mailto:hsnkymn@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.kayman.me)
-
+ </p>
+ <br>
+ <br>
+ <br>
 
 <p style="display: inline-block;" align="center">
   <kbd>
