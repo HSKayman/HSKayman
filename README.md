@@ -41,10 +41,10 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <br><p align="center">
+    <br>
+    <p align="center">
   <code>and many more...</code>
   </p>
-    
   </kbd>
   <p style="display: inline-block;" align="center">
   <kbd>
