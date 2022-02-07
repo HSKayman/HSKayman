@@ -106,7 +106,8 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <br>
   <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
   
-  
+  <br>
+  <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/DEU_CSC.svg" alt="HSKayman" /></p>
   
 <h2 align="center">My Github Stats</h2>
 <p align="center">
