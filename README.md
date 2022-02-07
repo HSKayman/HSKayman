@@ -45,6 +45,8 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" />
   </kbd>
+  <br>
+    <br>
   <kbd>
     <kbd>Database</kbd>
     <br>
