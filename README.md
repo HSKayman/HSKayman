@@ -105,11 +105,8 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <br>
   <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
   <br>
-  
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-![](https://github.com/HSKayman/HSKayman/raw/output/snake.svg)
+ 
+![](https://github.com/HSKayman/HSKayman/blob/output/snake.svg)
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSKayman&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
