@@ -20,6 +20,7 @@
   </p>
     
   </kbd>
+  <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -47,6 +48,8 @@
   </kbd>
   <br>
     <br>
+    </p>
+    <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Database</kbd>
     <br>
