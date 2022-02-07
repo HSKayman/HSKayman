@@ -6,9 +6,9 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
   <code><a href="https://kayman.me/" title="My Website Profile"><img width="22" src="https://kayman.me/static/img/favicon.ico"> My Website</a></code>
 
 </h5>
-<!--START_SECTION:wordcloud-->
- <p align='center'><img src='https://raw.githubusercontent.com/HSKayman/HSKayman/master/HSKayman/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
- <!--END_SECTION:wordcloud-->
+
+ <p align='center'><img src='https://raw.githubusercontent.com/HSKayman/HSKayman/first.gif' width='100%'/></p> 
+
 <br>
 <br>
 <br>
