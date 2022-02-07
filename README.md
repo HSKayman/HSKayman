@@ -6,8 +6,8 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
   <code><a href="https://kayman.me/" title="My Website Profile"><img width="22" src="https://kayman.me/static/img/favicon.ico"> My Website</a></code>
 
 </h5>
-
- <p align='center'><img src='https://raw.githubusercontent.com/HSKayman/HSKayman/First.gif' width='100%'/></p> 
+<br>
+ <p align='center'><img src='https://github.com/HSKayman/HSKayman/blob/main/First.gif' width='100%'/></p> 
 
 <br>
 <br>
