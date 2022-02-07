@@ -7,7 +7,7 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 
 </h5>
 
- <p align='center'><img src='https://raw.githubusercontent.com/HSKayman/HSKayman/first.gif' width='100%'/></p> 
+ <p align='center'><img src='https://raw.githubusercontent.com/HSKayman/HSKayman/First.gif' width='100%'/></p> 
 
 <br>
 <br>
