@@ -94,7 +94,10 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
 </p>
-
+<br>
+  <p><img align="center" src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
+  
+  
   
 <h2 align="center">My Github Stats</h2>
 <p align="center">
