@@ -29,9 +29,8 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
  <br>
  <br>
  <br>
- <br>
- <br>
-  <br>
+
+<p align='center'><img src='https://github.com/HSKayman/HSKayman/blob/main/wordcloud.png' width='100%'/></p> 
  <br>
 <p style="display: inline-block;" align="center">
   <kbd>
