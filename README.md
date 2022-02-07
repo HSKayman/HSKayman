@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
+I'm <code> someone who is passionate about AI and likes to write code, or Suca. </code>
   <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/sucakayman/" title="LinkedIn Profile"><img width="22" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"> LinkedIn</a></code>
