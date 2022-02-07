@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <code> someone who is passionate about AI and likes to write code, or Suca.
+I'm <code> someone who is passionate about AI and likes to write code, or Suca. </>
 - 👨🏽‍💻  I’m currently AI Developer
 - 🌱 I’m currently developing Optimizing projects and Data Science projects
 - 🤔 My interest lies in Data Science, Machine Learning, Deep Learning and Parallel Programing
