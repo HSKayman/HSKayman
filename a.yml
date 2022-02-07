@@ -1,2 +1,0 @@
-- name: Profile WordCloud
-  uses: Parply/profile-wordcloud@v0.0.1
