@@ -95,7 +95,7 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
   </kbd>
 </p>
 <br>
-  <p><img align="center" src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
+  <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
   
   
   
