@@ -106,7 +106,7 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
   <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
   <br>
   
-![](https://github.com/HSKayman/HSKayman/snake.svg)
+![](https://github.com/HSKayman/HSKayman/raw/output/snake.svg)
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSKayman&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
