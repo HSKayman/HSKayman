@@ -78,7 +78,7 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/HSKayman/HSKayman/blob/main/github-user-contribution.svg)
+![snake gif](https://github.com/HSKayman/HSKayman/blob/output/github-user-contribution.svg)
 
 <h2 align="center">My Github Stats</h2>
 <p align="center">
