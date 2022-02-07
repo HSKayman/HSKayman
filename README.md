@@ -11,8 +11,8 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <br>
 <br>
 <br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="left">Profile Views : <img src="https://komarev.com/ghpvc/?username=HSKayman&label=Profile%20views&color=0e75b6&style=flat"
+    alt="HSKayman" /> 
   </p>
 
 <p><img align="right" src="https://github.com/HSKayman/HSKayman/blob/main/animation.gif" alt="HSKayman" /></p>
