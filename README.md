@@ -9,6 +9,18 @@
 
 <p style="display: inline-block;" align="center">
   <kbd>
+  <kbd>Data Science & AI</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <br><p align="center">
+  <code>and many more...</code>
+  </p>
+    
+  </kbd>
+  <kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
@@ -43,7 +55,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </kbd>
   <br>
-  <br>
+  <br><kbd>
   <kbd>Data Science & AI</kbd>
     <br>
     <br>
@@ -74,12 +86,8 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TekyaygilFethi/HSKayman/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--
-[![Spotify](https://novatorem-tekyaygilfethi.vercel.app/api/spotify)](https://open.spotify.com/user/216fni5y42n2fs6kxbcqe6csq)
--->
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSKayman&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
