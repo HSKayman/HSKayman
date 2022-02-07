@@ -8,10 +8,13 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 </h5>
 <br>
  <p align='center'><img src='https://github.com/HSKayman/HSKayman/blob/main/First.gif' width='100%'/></p> 
+<br>
+<br>
+<br>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
-<br>
-<br>
-<br>
 <p><img align="right" src="https://github.com/HSKayman/HSKayman/blob/main/animation.gif" alt="HSKayman" /></p>
 <p align="left">
   I am a fast learner, reliable, and highly adaptable computer scientist with nearly 2 years of experience. I have an inquiring, judgmental mind so, I love to learn new topics and technologies. I am interested in data heavy applications, data science as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.
