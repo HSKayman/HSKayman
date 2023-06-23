@@ -2,8 +2,8 @@
 I'm <code> someone who is passionate about AI and likes to write code, or Suca. </code>
   <h5 align="center">
   
- [<img width="22" src="[https://github.com/HSKayman/HSKayman/blob/main/linkedin.png">](https://www.linkedin.com/in/sucakayman/)  
- 
+ [<img width="22" src="https://github.com/HSKayman/HSKayman/blob/main/linkedin.png">](https://www.linkedin.com/in/sucakayman/)  
+ [<img width="22" src="https://raw.githubusercontent.com/HSKayman/HSKayman/main/favicon.ico">](https://kayman.me/)  
 
 </h5>
 <br>
