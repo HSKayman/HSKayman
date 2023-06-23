@@ -2,7 +2,7 @@
 I'm <code> someone who is passionate about AI and likes to write code, or Suca. </code>
   <h5 align="center">
   
-    <a href="https://www.linkedin.com/in/sucakayman/" title="LinkedIn Profile"><img width="22" src="https://github.com/HSKayman/HSKayman/blob/main/linkedin.png"> LinkedIn</a>
+ <a href="https://www.linkedin.com/in/sucakayman/" title="LinkedIn Profile"><img width="22" src="https://github.com/HSKayman/HSKayman/blob/main/linkedin.png"> My Website</a>   
  <a href="https://kayman.me/" title="My Website Profile"><img width="22" src="https://raw.githubusercontent.com/HSKayman/HSKayman/main/favicon.ico"> My Website</a>
 
 </h5>
