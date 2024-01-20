@@ -17,11 +17,11 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <p><img align="right" src="https://github.com/HSKayman/HSKayman/blob/main/animation.gif" alt="HSKayman" /></p>
 <p align="left">
   <br>
-  I am a fast learner, reliable, and highly adaptable computer scientist with nearly 2 years of experience. I have an inquiring, judgmental mind so, I love to learn new topics and technologies. I am interested in data heavy applications, data science as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.
+  I am a fast learner, reliable, and highly adaptable computer scientist with nearly 6 years of experience. I have an inquiring, judgmental mind so, I love to learn new topics and technologies. I am interested in data heavy applications, data science as well as designing and analyzing new algorithms. I especially like working on NP problems that are featured in computer science literature. As a result of that, I love challenging myself by competing in programming contests.
  
-- 👨🏽‍💻  I’m currently AI Developer and Blockchain Developer
-- 🌱 I’m currently developing Optimizing projects and Data Science projects
-- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning, Parallel Programing and Blockchain
+- 🔬 Currently, I am engrossed in my latest venture, a project that marries the power of **Blockchain** and **AI**. It's a thrilling journey that demands dedication and focus, but the thrill of innovation keeps me going.
+- 🎲 In my leisure time, I indulge in intellectual pursuits. Chess, one of my favorite games, sharpens my analytical and strategic skills. Philosophy, another interest of mine, allows me to ponder about the world and my place in it.
+- 🧮 I also relish the challenge of solving complex math problems. It's an activity that keeps me sharp and focused.
 - 💬 Ask me about anything from [hsn@kymn.com](mailto:hsnkymn@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.kayman.me)
  </p>
