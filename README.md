@@ -102,10 +102,6 @@ I'm <code> someone who is passionate about AI and likes to write code, or Suca. 
 <br>
   <p align="center"><img src="https://github.com/HSKayman/HSKayman/blob/main/mandelbrot.gif" alt="HSKayman" /></p>
   <br>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSKayman&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-</p>
 <!--
 **HSKayman/HSKayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
